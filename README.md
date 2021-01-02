@@ -1,6 +1,4 @@
-
-[![Header]<img src="./lg/NewProyect.png"> ]
-
+<img src="./lg/NewProyect.png" height="450px" width="100%">
 
 ### Hi Everyone 👋
 My name is Alexander Alvarado and i'm a Science & Computer Engineering student, i'm from Miami FL and living in Guatemala.
