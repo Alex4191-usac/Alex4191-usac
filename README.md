@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Alex4191's github stats](https://github-readme-stats.vercel.app/api?username=Alex4191-usac)](https://github.com/Alex4191-usac/github-readme-stats)
 
 <!--
 **Alex4191-usac/Alex4191-usac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
