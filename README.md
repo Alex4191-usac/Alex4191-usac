@@ -1,10 +1,10 @@
-<img src="./lg/NewProyect.png" height="400px" width="100%">
+<img src="./lg/NewProyect.png" height="430px" width="100%">
 
 ### Hi Everyone 👋
 My name is Alexander Alvarado and i'm a Science & Computer Engineering student, i'm from Miami FL and living in Guatemala.
 
 ### Technologies and Tools :hammer: 
-<div text-align="center"> 
+
 <span>
 <img src="./lg/javascript.svg" height="30px">  
 <img src="./lg/html-5.svg" height="30px">
@@ -18,5 +18,5 @@ My name is Alexander Alvarado and i'm a Science & Computer Engineering student, 
 <img src="./lg/django.svg" height="30px">
 <img src="./lg/bootstrap.svg" height="30px">
 </span>
-</div>
+
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex4191-usac&layout=compact)](https://github.com/Alex4191-usac/github-readme-stats)
