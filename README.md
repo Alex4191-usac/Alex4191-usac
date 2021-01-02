@@ -18,5 +18,3 @@ My name is Alexander Alvarado and i'm a Science & Computer Engineering student, 
 <img src="./lg/django.svg" height="30px">
 <img src="./lg/bootstrap.svg" height="30px">
 </span>
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex4191-usac&layout=compact)](https://github.com/Alex4191-usac/github-readme-stats)
