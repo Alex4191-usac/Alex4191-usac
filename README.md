@@ -8,7 +8,7 @@ My name is Alexander Alvarado and i'm a Science & Computer Engineering student, 
 
 ### Technologies and Tools :hammer: 
 <span>
-<img src="./lg/javascript.svg" height="30px"> 
+<img src="./lg/javascript.svg" height="30px">  
 <img src="./lg/html-5.svg" height="30px">
 <img src="./lg/css-3.svg" height="30px">
 <img src="./lg/angular-icon.svg" height="30px">
@@ -19,7 +19,7 @@ My name is Alexander Alvarado and i'm a Science & Computer Engineering student, 
 <img src="./lg/python.svg" height="30px">
 <img src="./lg/django.svg" height="30px">
 <img src="./lg/bootstrap.svg" height="30px">
- </span>
+<span>
 <!--
 **Alex4191-usac/Alex4191-usac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
