@@ -5,7 +5,7 @@ My name is Alexander Alvarado and i'm a Science & Computer Engineering student, 
 
 :star2:I’m currently looking for new opportunities .
 
-### I've wordked with :hammer: 
+### I've worked with :hammer: 
 
 <span>
 <img src="./lg/javascript.svg" height="30px">  
