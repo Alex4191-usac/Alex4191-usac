@@ -3,6 +3,8 @@
 ### Hi Everyone 👋
 My name is Alexander Alvarado and i'm a Science & Computer Engineering student, i'm from Miami FL and living in Guatemala.
 
+:star2:I’m currently looking for new opportunities .
+
 ### Technologies and Tools :hammer: 
 
 <span>
